@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AdcFftAnalysis": {
+      "commandName": "Project",
+      "commandLineArgs": "-f \"./Data/AD7606_TestData_88d69.txt\""
+    }
+  }
+}
